@@ -1,0 +1,14 @@
+Welcome to the Banking Application!
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. View account details
+5. Update contact details
+6. Exit
+Enter your choice: 1
+Enter account holder name: John Doe
+Enter initial deposit amount: 1000.0
+Enter email address: john.doe@example.com
+Enter phone number: 1234567890
+Account created successfully with Account Number: 1001
+
